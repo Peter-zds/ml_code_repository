@@ -1,3 +1,0 @@
-git diff  ：查看unstage状态的修改 （红色M） 修改但是未添加
-git diff --cached ：查看staged状态的修改（绿色M）修改而且已经添加
-git diff head：同时查看红色和绿色的M
